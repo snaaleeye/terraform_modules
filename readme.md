@@ -14,6 +14,8 @@ That module may call other modules and connect them together by passing output v
 
 ![0_NrWZyhisZOV68Igt](https://user-images.githubusercontent.com/105854053/177127555-7cd6145b-2a85-43dc-a873-c643fc310ed1.png)
 
+https://medium.com/xebia-engineering/best-practices-to-create-organize-terraform-code-for-aws-2f4162525a1a
+
 ## How to create Modules?
 
 https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d
