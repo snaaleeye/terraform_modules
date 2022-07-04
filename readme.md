@@ -18,4 +18,11 @@ https://medium.com/xebia-engineering/best-practices-to-create-organize-terraform
 
 ## How to create Modules?
 
+Step 1: Go to https://registry.terraform.io/browse/modules to search for modules
+
+Step 2: 
+
+https://www.youtube.com/watch?v=OeL2AlsdNaQ
+
 https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d
+
