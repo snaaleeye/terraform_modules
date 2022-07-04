@@ -10,7 +10,7 @@ The .tf files in your working directory when you run terraform plan or terraform
 
 That module may call other modules and connect them together by passing output values from one to input values of another.
 
-## Diagram/Tree of folder structure
+## Tree of folder structure
 
 ![0_NrWZyhisZOV68Igt](https://user-images.githubusercontent.com/105854053/177127555-7cd6145b-2a85-43dc-a873-c643fc310ed1.png)
 
